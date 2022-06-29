@@ -5,3 +5,18 @@
 #coffee-image {
   width: 400px;
 }
+
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerTitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headPara {
+  display: flex;
+  gap: 16px;
+}
