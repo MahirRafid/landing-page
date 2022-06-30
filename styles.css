@@ -110,7 +110,7 @@ a {
   padding: 100px 0px;
   background-color: #f8f4f1;
   padding-top: 16px;
-  padding-bottom: 16px;
+  padding-bottom: 48px;
 }
 
 .drinks h3 {
@@ -118,4 +118,25 @@ a {
   font-weight: extra-bold;
   color: #5b3739;
   margin-bottom: 54px;
+}
+
+.actualQuote {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.writer {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.quote {
+  padding: 75px 216px;
+  display: flex;
+  flex-direction: column;
+}
+
+.writer {
+  align-self: flex-end;
 }
