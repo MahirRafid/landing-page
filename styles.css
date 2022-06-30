@@ -139,4 +139,26 @@ a {
 
 .writer {
   align-self: flex-end;
+  color: #5b3739;
+}
+
+.order {
+  background-color: #f8f4f1;
+  color: white;
+}
+
+.buttonTwo {
+  height: 32px;
+  align-self: center;
+}
+
+.msg {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.msg h5 {
+  font-size: 18px;
 }
