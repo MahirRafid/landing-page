@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #34302d;
+  margin: 0;
 }
 
 #logo {
@@ -15,6 +16,7 @@ body {
 .header {
   display: flex;
   flex-direction: column;
+  margin-bottom: 90px;
 }
 
 .headerTitle {
@@ -71,4 +73,49 @@ body {
 a {
   text-decoration: none;
   color: #34302d;
+}
+
+.drinkDiv img {
+  width: 160px;
+  border-radius: 12px;
+}
+
+.drinksContent {
+  display: flex;
+  gap: 48px;
+}
+
+.drinkDiv {
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.drinkDiv p {
+  text-align: center;
+  font-size: 14px;
+}
+
+.drinkDiv h5 {
+  margin-bottom: 0px;
+  font-size: 18px;
+  color: #5b3739;
+}
+
+.drinks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0px;
+  background-color: #f8f4f1;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.drinks h3 {
+  font-size: 28px;
+  font-weight: extra-bold;
+  color: #5b3739;
+  margin-bottom: 54px;
 }
