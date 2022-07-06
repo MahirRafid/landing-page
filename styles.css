@@ -150,6 +150,15 @@ a {
 .buttonTwo {
   height: 32px;
   align-self: center;
+  background-color: white;
+  color: #5b3739;
+  border-radius: 6px;
+  font-size: 16px;
+  width: 100px;
+  cursor: pointer;
+  margin-right: 40px;
+  border: 2px solid #5b3739;
+  font-weight: 600;
 }
 
 .msg {
@@ -157,8 +166,21 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 20px 40px;
 }
 
 .msg h5 {
   font-size: 18px;
+  margin: 0px;
+  margin-bottom: 2px;
+}
+
+.msg p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.orderDiv {
+  padding: 100px 200px;
 }
