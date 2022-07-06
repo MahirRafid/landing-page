@@ -16,7 +16,7 @@ body {
 .header {
   display: flex;
   flex-direction: column;
-  margin-bottom: 90px;
+  margin-bottom: 115px;
 }
 
 .headerTitle {
@@ -109,15 +109,15 @@ a {
   align-items: center;
   padding: 100px 0px;
   background-color: #f8f4f1;
-  padding-top: 16px;
-  padding-bottom: 48px;
+  padding-top: 48px;
+  padding-bottom: 64px;
 }
 
 .drinks h3 {
   font-size: 28px;
   font-weight: extra-bold;
   color: #5b3739;
-  margin-bottom: 54px;
+  margin-bottom: 62px;
 }
 
 .actualQuote {
