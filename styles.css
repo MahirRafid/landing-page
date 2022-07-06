@@ -94,7 +94,7 @@ a {
 
 .drinkDiv p {
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .drinkDiv h5 {
@@ -148,16 +148,16 @@ a {
 }
 
 .buttonTwo {
-  height: 32px;
+  height: 40px;
   align-self: center;
-  background-color: white;
-  color: #5b3739;
+  background-color: #6f4b37;
+  color: white;
   border-radius: 6px;
   font-size: 16px;
   width: 100px;
   cursor: pointer;
   margin-right: 40px;
-  border: 2px solid #5b3739;
+  border: 2px solid white;
   font-weight: 600;
 }
 
